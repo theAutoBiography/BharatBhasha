@@ -1,0 +1,64 @@
+.Tiles {
+    border-radius: 15px;
+    border: 2px solid #73AD21;
+    padding: 5px;
+    shadow: 2px 2px;
+}
+
+.choose {
+  display: inline-block;
+  text-align: center;
+}
+
+.choose label {
+  display: block;
+}
+
+
+.box{
+  padding: 0 10px 0 10px;
+}
+
+.box-item{
+  padding: 10px 10px 10px 10px;
+}
+
+.completion p{
+  text-align: center;
+}
+
+.completion button{
+    background-color: yellow;
+}
+
+.completion img{
+    width: 50%;
+    margin-left: 60px;
+}
+
+.completion span{
+    color: black;
+}
+
+.border{
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 20px;
+}
+
+/*.lesson {
+	display:table;
+	content:"";
+	line-height:0
+}
+
+.list-lessons-row {
+	display:table-row
+}
+
+.list-lesson-item {
+	display:table-cell;
+	width:33.333%;
+	min-width:160px
+}
+*/
